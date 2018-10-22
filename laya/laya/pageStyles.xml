@@ -1,0 +1,6 @@
+<page>
+   <item name="Relive.ui" props="" ifExport="默认" aName=""/>
+   <item name="Loading.ui" props="" ifExport="默认" aName=""/>
+   <item name="Test.ui" props="" ifExport="分离模式" aName=""/>
+   <item name="Rank.ui" props="" ifExport="默认" aName=""/>
+</page>

@@ -1,0 +1,1 @@
+{"type":"Dialog","props":{"width":720,"height":1280},"child":[{"type":"Text","props":{"y":401,"x":326,"text":"Login","fontSize":40,"bold":true}},{"type":"Image","props":{"width":200,"skin":"res/ui/loading/bg_white.png","height":200,"centerY":0,"centerX":0,"sizeGrid":"20,20,20,20"}}]}

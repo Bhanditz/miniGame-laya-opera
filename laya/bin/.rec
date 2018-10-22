@@ -1,0 +1,9 @@
+D .
+D res
+D res/ui
+D res/ui/game
+D res/ui/loading
+P D58F1BD4 bg_white.png
+P 91F71C4C progress$bar.png
+P BBC7FE79 progress.png
+P 3320DFF0 readygo_logo.png
